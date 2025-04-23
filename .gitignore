@@ -1,0 +1,11 @@
+# Python 가상환경과 캐시 무시
+.venv/
+__pycache__/
+*.pyc
+
+# 결과 이미지 파일 무시
+*.jpg
+*.png
+
+# 기타
+.vscode/
