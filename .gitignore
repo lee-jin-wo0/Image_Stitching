@@ -3,9 +3,5 @@
 __pycache__/
 *.pyc
 
-# 결과 이미지 파일 무시
-*.jpg
-*.png
-
 # 기타
 .vscode/
