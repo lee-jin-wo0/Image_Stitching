@@ -33,15 +33,25 @@ python main.py
 
 📂 폴더 구조
 Image_Stitching/
+
 ├── image1.jpg
+
 ├── image2.jpg
+
 ├── main.py
+
 ├── stitched_result.jpg
+
 ├── .gitignore
+
 └── README.md
 
 ⚙ 필요 환경
+
 Python 3.7 이상
+
 OpenCV 4.x 이상
+
 NumPy
+
 ---
